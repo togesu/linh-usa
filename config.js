@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Quá vip",
+    introTitle: 'Hi Lynh usa',
+    introDesc: `Xuân sang tết đến đong đầy
+    Nhưng mà vẫn thiếu chuỗi ngày có em
+    Thơ ca Linh cũng đã xem
+    Bao nhiêu thương nhớ đã đem gửi nàng`,
+    btnIntro: 'Nghe chút nhạc nhé!',
+    title: 'Chiều mai đi xem thả diều cùng Long nha',
+    desc: 'Nếu không muốn đi cũng không sao đâu :v',
+    btnYes: 'Linh thích lắm <3',
+    btnNo: 'Không đi nha :3',
+    question: 'Quá vip, mấy giờ đi Linh?',
+    btnReply: 'Gửi thời gian cho Long',
+    reply: 'Linh rất thích đi t̶h̶ả̶ ̶d̶i̶ề̶u̶  cùng Long',
+    mess: 'Oki Quá vip',
+    messDesc: 'Chiều mai 16h30, Long vào đón Linh nhé!',
+    btnAccept: 'Oki lun <3',
+    messLink: 'https://www.facebook.com/messages/t/100035046545890'
 }
